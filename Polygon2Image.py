@@ -140,6 +140,6 @@ for i, file in enumerate(file_list):
         print("save to ... {}".format(os.path.join(image_savepath, file.split('.')[0]+".jpg")))
         cv2.imwrite(os.path.join(image_savepath, file.split('.')[0]+".jpg"), label_image)
         print("save to ... {}".format(os.path.join(numpy_savepath, file.split('.')[0]+".npy")))
-        np.save(os.path.join(numpy_savepath, file.split('.')[0]+".npy"), numpy_savepath)
+        np.save(os.path.join(numpy_savepath, file.split('.')[0]+".npy"), label_np)
             
             
