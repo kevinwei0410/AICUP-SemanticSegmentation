@@ -8,5 +8,5 @@ data--  |
         |----Public_Image
  
 ## Team Member 
-- mingking 
-- kevin wei 
+- MingKing
+- Kevin Wei 
