@@ -1,4 +1,4 @@
-# TBrainAI_SEG
+# AICUP_SEG
 
 ## Structure
 data--  |  
